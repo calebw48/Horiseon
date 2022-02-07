@@ -12,13 +12,10 @@ THEN I find that the elements follow a logical structure independent of styling 
     -I organized the code so that it has a logical structure by making sure MAIN tag was aligned with closing MAIN tag and that SECTION A and SECTION B were in line as well.
 WHEN I view the icon and image elements
 THEN I find accessible alt attributes
-    **-2/5/22 - Complete on Saturday
+    -I ensured that each img element has an alt attribute with a description of the image.
 WHEN I view the heading attributes
 THEN I find that they fall in sequential order
-    **-2/5/22 - Complete on Saturday
+    -I ensured that Headings are used properly. Corrected Footer <h2> to <p> and added class attribute to maintain style.
 WHEN I view the title element
 THEN I find a concise, descriptive title
     -Changed title from "website" to "Horiseon - A Marketing Company"
-
-
-    **-2/5/22 Finish modifying the styles.css to fix Section A Content and Section B Benefits class selectors to be organized and structured.
